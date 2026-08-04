@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0009-palindrome-number) |
 | [0486-predict-the-winner](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/1406-stone-game-iii) |
