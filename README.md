@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0046-permutations) |
+| [0055-jump-game](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0486-predict-the-winner](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0486-predict-the-winner) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0055-jump-game) |
 | [0486-predict-the-winner](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/1406-stone-game-iii) |
 ## Recursion
@@ -134,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/1406-stone-game-iii) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
