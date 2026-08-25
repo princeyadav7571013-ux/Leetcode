@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0125-valid-palindrome) |
@@ -236,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0099-recover-binary-search-tree) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
