@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Two Pointers
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0088-merge-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Recursion
 |  |
 | ------- |
