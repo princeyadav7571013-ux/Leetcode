@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0486-predict-the-winner](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0835-image-overlap](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0835-image-overlap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1260-shift-2d-grid](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1406-stone-game-iii](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/1406-stone-game-iii) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0835-image-overlap](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/1260-shift-2d-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Bit Manipulation
