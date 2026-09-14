@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0204-count-primes) |
 | [0486-predict-the-winner](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0486-predict-the-winner) |
+| [0836-rectangle-overlap](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1406-stone-game-iii](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -313,4 +314,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
