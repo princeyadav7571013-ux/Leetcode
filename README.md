@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0125-valid-palindrome) |
+| [0132-palindrome-partitioning-ii](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0344-reverse-string) |
 | [0940-distinct-subsequences-ii](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0940-distinct-subsequences-ii) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0115-distinct-subsequences) |
+| [0132-palindrome-partitioning-ii](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0486-predict-the-winner](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0486-predict-the-winner) |
 | [0940-distinct-subsequences-ii](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1406-stone-game-iii](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/1406-stone-game-iii) |
