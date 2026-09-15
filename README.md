@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0066-plus-one) |
 | [0096-unique-binary-search-trees](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0204-count-primes](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0204-count-primes) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0066-plus-one) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0079-word-search) |
