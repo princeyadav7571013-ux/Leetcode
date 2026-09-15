@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0066-plus-one) |
+| [0096-unique-binary-search-trees](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0204-count-primes](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0204-count-primes) |
 | [0486-predict-the-winner](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0836-rectangle-overlap) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0091-decode-ways) |
+| [0096-unique-binary-search-trees](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0486-predict-the-winner](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0486-predict-the-winner) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -292,11 +295,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0099-recover-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
