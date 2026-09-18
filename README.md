@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0088-merge-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3312-sorted-gcd-pair-queries](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3483-unique-3-digit-even-numbers](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0344-reverse-string) |
 | [0940-distinct-subsequences-ii](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0055-jump-game) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
