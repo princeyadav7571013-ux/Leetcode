@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0204-count-primes](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0115-distinct-subsequences) |
+| [0118-pascals-triangle](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0118-pascals-triangle) |
 | [0132-palindrome-partitioning-ii](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0486-predict-the-winner](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0486-predict-the-winner) |
 | [0940-distinct-subsequences-ii](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0940-distinct-subsequences-ii) |
