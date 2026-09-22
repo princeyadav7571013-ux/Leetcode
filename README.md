@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0125-valid-palindrome) |
+| [0143-reorder-list](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0344-reverse-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0143-reorder-list](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0143-reorder-list) |
 | [0486-predict-the-winner](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0486-predict-the-winner) |
 | [3483-unique-3-digit-even-numbers](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Game Theory
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0086-partition-list) |
+| [0143-reorder-list](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0143-reorder-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Union-Find
 |  |
@@ -338,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0071-simplify-path) |
+| [0143-reorder-list](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0143-reorder-list) |
 ## Breadth-First Search
 |  |
 | ------- |
