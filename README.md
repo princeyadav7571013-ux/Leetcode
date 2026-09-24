@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0135-candy) |
 | [0204-count-primes](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0486-predict-the-winner](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0486-predict-the-winner) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0135-candy) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
