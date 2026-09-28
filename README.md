@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0066-plus-one) |
 | [0096-unique-binary-search-trees](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0172-factorial-trailing-zeroes](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0204-count-primes) |
 | [0486-predict-the-winner](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0836-rectangle-overlap) |
