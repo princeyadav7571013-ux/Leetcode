@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0135-candy) |
 | [0204-count-primes](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0079-word-search) |
+| [0130-surrounded-regions](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0130-surrounded-regions) |
 | [0240-search-a-2d-matrix-ii](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0835-image-overlap](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/1260-shift-2d-grid) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0130-surrounded-regions) |
 ## Tree
 |  |
 | ------- |
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0099-recover-binary-search-tree) |
+| [0130-surrounded-regions](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0130-surrounded-regions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
@@ -392,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0130-surrounded-regions](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0130-surrounded-regions) |
 | [1096-brace-expansion-ii](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Trie
