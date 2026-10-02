@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0088-merge-sorted-array) |
 | [1096-brace-expansion-ii](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/1096-brace-expansion-ii) |
@@ -449,4 +451,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0037-sudoku-solver) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
