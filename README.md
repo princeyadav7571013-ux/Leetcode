@@ -505,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0175-combine-two-tables) |
+| [0197-rising-temperature](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0197-rising-temperature) |
 ## Segment Tree
 |  |
 | ------- |
