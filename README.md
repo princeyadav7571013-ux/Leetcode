@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0835-image-overlap](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0835-image-overlap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1254-number-of-closed-islands](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1406-stone-game-iii](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0130-surrounded-regions) |
 | [0240-search-a-2d-matrix-ii](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0835-image-overlap](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/1260-shift-2d-grid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0130-surrounded-regions) |
+| [1254-number-of-closed-islands](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/1254-number-of-closed-islands) |
 ## Tree
 |  |
 | ------- |
@@ -428,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0130-surrounded-regions) |
 | [0145-binary-tree-postorder-traversal](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [1254-number-of-closed-islands](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
@@ -478,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0130-surrounded-regions) |
 | [0301-remove-invalid-parentheses](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Trie
 |  |
