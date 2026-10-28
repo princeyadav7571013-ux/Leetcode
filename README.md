@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0135-candy) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0198-house-robber](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0486-predict-the-winner](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0486-predict-the-winner) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0118-pascals-triangle) |
 | [0132-palindrome-partitioning-ii](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
+| [0198-house-robber](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0198-house-robber) |
 | [0486-predict-the-winner](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0940-distinct-subsequences-ii) |
