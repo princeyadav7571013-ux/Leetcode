@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0283-move-zeroes](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0835-image-overlap](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0835-image-overlap) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0344-reverse-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
