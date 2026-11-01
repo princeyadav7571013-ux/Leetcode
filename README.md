@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0204-count-primes) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0228-summary-ranges) |
 | [0240-search-a-2d-matrix-ii](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0283-move-zeroes) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0835-image-overlap](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0835-image-overlap) |
