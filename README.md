@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0231-power-of-two) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0486-predict-the-winner) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0029-divide-two-integers) |
 | [0191-number-of-1-bits](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0231-power-of-two) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0143-reorder-list) |
+| [0231-power-of-two](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0486-predict-the-winner) |
 | [3483-unique-3-digit-even-numbers](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Game Theory
