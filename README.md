@@ -576,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0184-department-highest-salary](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0184-department-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/0197-rising-temperature) |
+| [1757-recyclable-and-low-fat-products](https://github.com/princeyadav7571013-ux/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 ## Segment Tree
 |  |
 | ------- |
